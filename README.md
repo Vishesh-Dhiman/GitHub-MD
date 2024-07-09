@@ -131,7 +131,7 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 #### 4. GitHub-Flavored Markdown (GFM)
 - **Syntax Highlighting:**
   ```markdown
-  ```javascript
+  javascript
   console.log('Hello, world!');
   ```
 
