@@ -91,9 +91,9 @@ Markdown is a lightweight markup language for creating formatted text using a pl
   `Inline code`
   
   ```
-  Code block
-  ```
-  `None`
+- **Python programming Code:**
+  ```markdown
+  ```print("Hello World !!")
   ```
 
 #### 3. Advanced Syntax
