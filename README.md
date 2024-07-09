@@ -93,6 +93,7 @@ Markdown is a lightweight markup language for creating formatted text using a pl
   ```
   Code block
   ```
+  `None`
   ```
 
 #### 3. Advanced Syntax
@@ -132,7 +133,6 @@ Markdown is a lightweight markup language for creating formatted text using a pl
   ```markdown
   ```javascript
   console.log('Hello, world!');
-  ```
   ```
 
 - **Tables with Alignment:**
