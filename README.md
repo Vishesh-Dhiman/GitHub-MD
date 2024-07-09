@@ -93,7 +93,7 @@ Markdown is a lightweight markup language for creating formatted text using a pl
   ```
 - **Python programming Code:**
   ```markdown
-  ```print("Hello World !!")
+  print("Hello World !!")
   ```
 
 #### 3. Advanced Syntax
