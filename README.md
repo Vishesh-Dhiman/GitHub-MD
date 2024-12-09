@@ -1,4 +1,4 @@
-# Learning-GitHub-Markdown
+# GitHub-MD
 
 
 To learn GitHub Markdown language effectively, you should cover the following topics:
